@@ -4,4 +4,4 @@ description: Portfolio Page.
 show_downloads: false
 google_analytics:
 
-remote_theme: pages-themes/tactile@v0.2.0
+theme: tactile@v0.2.0
