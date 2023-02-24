@@ -26,6 +26,12 @@ A single artifact, Weight Tracking application developed for the CS-360 class in
 The original project was built in Java and XML in Android Studio. In this original configuration the code had no comments, and the solution was limited to the Android platform. The enhancement for this project is achieved by converting it to a web-based application using HTML, CSS, JavaScript, and MongoDB with adequate commenting for collaborative development and maintenance of the application. This enhancement choice allows the application to be used across all platforms with web access, not just the Android platform. The primary learning experience I received from rebuilding this project is that web development requires a different approach to solving the problem. I approached development of the web application through the lens of UI/UX first, then functionality.
       
 Proficiency of _[CS-499-01] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science_ was achieved in this category.
+
+![User Login](https://github.com/SNHU-WPendletonPortfolio/SNHU-WPendletonPortfolio.github.io/tree/main/images/newUI_Login.png)
+
+![App Permissions](https://github.com/SNHU-WPendletonPortfolio/SNHU-WPendletonPortfolio.github.io/tree/main/images/newUI_permissions.png)
+
+![User Data](https://github.com/SNHU-WPendletonPortfolio/SNHU-WPendletonPortfolio.github.io/tree/main/images/newUI_userData.png)
       
 ## Algorithms and Data Structure
 
@@ -54,3 +60,7 @@ A high level of proficiency and understanding of _[CS-499-05] Develop a security
 The artifact originally had a SQL database on the back end with three tables. The different tables contained the user login credentials, user weight data, phone permissions, and the users’ goal weight. The enhancement on this was a major improvement. I switched from SQL to a Mongo Database that contained two tables. One the user profile where the users’ credentials, text preferences, and goal weight was stored and another containing the record data tracking the users’ weight by date and time. 
       
 Though all three key categories contained evidence of this course outcome the Databases category best demonstrates proficiency in _[CS-499-04] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)_.
+
+![User Profile](https://github.com/SNHU-WPendletonPortfolio/SNHU-WPendletonPortfolio.github.io/tree/main/images/mongoDB_userProfile.png)
+
+![User Record](https://github.com/SNHU-WPendletonPortfolio/SNHU-WPendletonPortfolio.github.io/tree/main/images/mongoDB_userRecords.png)
