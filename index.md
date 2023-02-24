@@ -6,7 +6,7 @@
       
 ## Code Review
 
-      The code review in the **link** at the bottom of this section illustrates my ability to objectively analyze and review my own code and by extension the code of others. In reviewing my own code, I had to step outside of the role of developer and set aside all emotional attachment to the project to provide an objective review of the code for the sake of the product.
+      The code review in the link at the bottom of this section illustrates my ability to objectively analyze and review my own code and by extension the code of others. In reviewing my own code, I had to step outside of the role of developer and set aside all emotional attachment to the project to provide an objective review of the code for the sake of the product.
       
       Proficiency of _[CS-499-02] Design, develop, and deliver professional-quality oral, written, and visual communications that are coherent, technically sound, and appropriately adapted to specific audiences and contexts_ course outcome was fully demonstrated in this code review, linked below, and the professional assessment.
 [Code Review](https://youtu.be/R0OlxKgjNd0)
@@ -19,7 +19,7 @@
 
       The original project was built in Java and XML in Android Studio. In this original configuration the code had no comments, and the solution was limited to the Android platform. The enhancement for this project is achieved by converting it to a web-based application using HTML, CSS, JavaScript, and MongoDB with adequate commenting for collaborative development and maintenance of the application. This enhancement choice allows the application to be used across all platforms with web access, not just the Android platform. The primary learning experience I received from rebuilding this project is that web development requires a different approach to solving the problem. I approached development of the web application through the lens of UI/UX first, then functionality.
       
-      Proficiency of [CS-499-01] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science was achieved in this category.
+      Proficiency of _[CS-499-01] Employ strategies for building collaborative environments that enable diverse audiences to support organizational decision making in the field of computer science_ was achieved in this category.
       
 ## Algorithms and Data Structure
 
@@ -39,12 +39,12 @@
       	}
       ```
       
-      Proficiency of [CS-499-03] Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms) was fully achieved in this category using the above methods.
+      Proficiency of _[CS-499-03] Design and evaluate computing solutions that solve a given problem using algorithmic principles and computer science practices and standards appropriate to its solution, while managing the trade-offs involved in design choices (data structures and algorithms)_ was fully achieved in this category using the above methods.
       
-      A high level of proficiency and understanding of [CS-499-05] Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources was demonstrated in the development of the fields where the user interacts.
+      A high level of proficiency and understanding of _[CS-499-05] Develop a security mindset that anticipates adversarial exploits in software architecture and designs to expose potential vulnerabilities, mitigate design flaws, and ensure privacy and enhanced security of data and resources_ was demonstrated in the development of the fields where the user interacts.
 
 ## Databases
 
       The artifact originally had a SQL database on the back end with three tables. The different tables contained the user login credentials, user weight data, phone permissions, and the users’ goal weight. The enhancement on this was a major improvement. I switched from SQL to a Mongo Database that contained two tables. One the user profile where the users’ credentials, text preferences, and goal weight was stored and another containing the record data tracking the users’ weight by date and time. 
       
-      Though all three key categories contained evidence of this course outcome the Databases category best demonstrates proficiency in [CS-499-04] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database).
+      Though all three key categories contained evidence of this course outcome the Databases category best demonstrates proficiency in _[CS-499-04] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database)_.
