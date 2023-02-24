@@ -1,7 +1,3 @@
----
-layout: default
----
-
 ## Professional Self-Assessment
       This path that we call Computer Science (CS) is one without end. Not a path to nowhere. Quite the opposite. It is a path to everywhere. This is the very idea behind the old adage that the journey is more valuable than the destination. Though I have never been accused of not having one it is through the program guiding me down this path that I found my true voice.
       The CS program has helped me grow in my career by transitioning from a Mechanical Designer to managing the department in charge of IT and Integration. This was accomplished through communicating to internal stakeholders the best practices and techniques learned from the IT courses to harden our network and protect it from unauthorized influencers. The DAT and DAD courses provided me with an unparalleled advantage in the workspace with data management and how to use it to convert information into wisdom and insights. This allowed me to foster a culture of collaborative data driven decision making that has increased productivity and reduced overall workloads through changes to processes and procedures. The CS courses provided me with the knowledge of data structures and algorithms required to automate some of the more laborious and error prone computer related processes by integrating different systems together and creating custom reports and dashboards via our various system APIs. This success has allowed me to hire two other people to work for me creating the Integration Department where all things technology get reviewed and signed off on prior to purchase and implementation. 
@@ -37,8 +33,3 @@ layout: default
 ## Databases
       The artifact originally had a SQL database on the back end with three tables. The different tables contained the user login credentials, user weight data, phone permissions, and the users’ goal weight. The enhancement on this was a major improvement. I switched from SQL to a Mongo Database that contained two tables. One the user profile where the users’ credentials, text preferences, and goal weight was stored and another containing the record data tracking the users’ weight by date and time. 
       Though all three key categories contained evidence of this course outcome the Databases category best demonstrates proficiency in [CS-499-04] Demonstrate an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database).
-           
-
-```
-The final element.
-```
