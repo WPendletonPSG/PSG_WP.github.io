@@ -32,7 +32,7 @@ Proficiency of _[CS-499-01] Employ strategies for building collaborative environ
 ![App Permissions](https://github.com/SNHU-WPendletonPortfolio/SNHU-WPendletonPortfolio.github.io/tree/main/images/newUI_permissions.png)
 
 ![User Data](https://github.com/SNHU-WPendletonPortfolio/SNHU-WPendletonPortfolio.github.io/tree/main/images/newUI_userData.png)
-      
+
 ## Algorithms and Data Structure
 
 The original build of the artifact was vulnerable, susceptible buffer overflow attacks or errors and SQL injection attacks. The application was hardened using data validation built into the CRUD structured Javascript. To reduce the potential for buffer overflow attacks or errors type validation was implemented using an IF statement.
