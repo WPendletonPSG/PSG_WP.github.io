@@ -1,3 +1,4 @@
+
 ## Professional Self-Assessment
 
 This path that we call Computer Science (CS) is one without end. Not a path to nowhere. Quite the opposite. It is a path to everywhere. This is the very idea behind the old adage that the journey is more valuable than the destination. Though I have never been accused of not having one it is through the program guiding me down this path that I found my true voice.
@@ -15,6 +16,10 @@ Proficiency of _[CS-499-02] Design, develop, and deliver professional-quality or
 ## Artifact Choice
 
 A single artifact, Weight Tracking application developed for the CS-360 class in December of 2022, was chosen to enhance for the portfolio project. This application was originally developed for the Android platform with Java, XML, and SQL using Android Studio. There are three screens in this application. The Logon screen, User Information screen, and the Text Messages Privileges screen. The login screen has a username and password text field and two buttons one for logging in and another for creating a new account. The text message privileges screen allows the user to opt-in to receive text messages from the application. The user information screen has the user weigh with a time and date stamp along with a row to input new weights and set a target weight. 
+
+[Original Artifact](https://github.com/SNHU-WPendletonPortfolio/WeightTrackingApp_cs360)
+
+[Enhanced Artifact](https://github.com/SNHU-WPendletonPortfolio/cs499_WeightTracking_webApp)
       
 ## Software Design and Engineering
 
